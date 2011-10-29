@@ -1,0 +1,460 @@
+switch_head_impl.c: In function ‘menu_item_activate’:
+switch_head_impl.c:303:15: warning: comparison between signed and unsigned integer expressions
+dbm_gdb.c: In function ‘isvalidcharacter’:
+dbm_gdb.c:1010:13: warning: comparison between signed and unsigned integer expressions
+dpaned.c: In function ‘on_page_reordered’:
+dpaned.c:165:34: warning: comparison between signed and unsigned integer expressions
+dpaned.c:167:10: warning: comparison between signed and unsigned integer expressions
+dpaned.c:173:15: warning: comparison between signed and unsigned integer expressions
+dpaned.c:173:15: warning: signed and unsigned type in conditional expression
+dpaned.c:173:48: warning: comparison between signed and unsigned integer expressions
+dpaned.c:173:48: warning: signed and unsigned type in conditional expression
+dpaned.c: In function ‘dpaned_init’:
+dpaned.c:301:17: warning: comparison between signed and unsigned integer expressions
+dpaned.c:314:17: warning: comparison between signed and unsigned integer expressions
+dpaned.c:338:17: warning: comparison between signed and unsigned integer expressions
+dpaned.c: In function ‘dpaned_set_tabbed’:
+dpaned.c:387:17: warning: comparison between signed and unsigned integer expressions
+dpaned.c:413:17: warning: comparison between signed and unsigned integer expressions
+markers.c: In function ‘markers_init’:
+markers.c:101:2: warning: comparison between signed and unsigned integer expressions
+plugin.c: In function ‘plugin_init’:
+plugin.c:141:2: warning: comparison between signed and unsigned integer expressions
+dhp-manpages.c: In function ‘devhelp_plugin_manpages_search’:
+dhp-manpages.c:146:48: warning: comparison between signed and unsigned integer expressions
+gdb-ui-envir.c: In function ‘gdbui_env_dlg’:
+gdb-ui-envir.c:116:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-envir.c:117:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-envir.c:118:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-envir.c:119:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-envir.c: In function ‘gdbui_opts_dlg’:
+gdb-ui-envir.c:208:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-envir.c:220:2: warning: passing argument 1 of ‘newlabel’ discards qualifiers from pointer target type
+gdb-ui-envir.c:30:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c: In function ‘breakpoint_cb’:
+gdb-io-break.c:82:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:83:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:84:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:85:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:86:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:87:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:88:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:89:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:90:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:91:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:92:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:93:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:94:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c: In function ‘parse_break_list’:
+gdb-io-break.c:105:2: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:109:3: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c: In function ‘added_break’:
+gdb-io-break.c:147:3: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:150:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:151:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:152:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:153:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:168:4: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:171:5: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:172:5: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:177:5: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:180:6: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:181:6: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:187:6: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:190:7: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c:191:7: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-break.c: In function ‘toggled_break’:
+gdb-io-break.c:259:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-lex.c: In function ‘init_scanner’:
+gdb-lex.c:82:39: warning: assignment discards qualifiers from pointer target type
+gdb-ui-frame.c: In function ‘gdbui_stack_dlg’:
+gdb-ui-frame.c:579:3: warning: passing argument 3 of ‘monospace’ discards qualifiers from pointer target type
+gdb-ui-frame.c:163:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c: In function ‘gdbui_create_widgets’:
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-main.c:928:2: warning: passing argument 3 of ‘make_btn’ discards qualifiers from pointer target type
+gdb-ui-main.c:393:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘var_created’:
+gdb-io-frame.c:177:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:178:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:179:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘got_varlist’:
+gdb-io-frame.c:203:2: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:204:2: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:215:4: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:231:5: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘got_current_level’:
+gdb-io-frame.c:273:2: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:277:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:280:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:281:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:282:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:283:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:284:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘hash_val_to_var’:
+gdb-io-frame.c:460:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:464:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:465:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c:466:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘object_listed’:
+gdb-io-frame.c:520:3: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-frame.c: In function ‘object_created’:
+gdb-io-frame.c:539:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:39:1: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:39:1: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:39:1: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c: In function ‘gerror’:
+gdb-io-run.c:141:4: warning: passing argument 1 of ‘gdbio_error_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:80:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:145:4: warning: passing argument 1 of ‘gdbio_error_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:80:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘start_xterm’:
+gdb-io-run.c:282:2: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:282:2: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:282:2: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:282:2: warning: initialization discards qualifiers from pointer target type
+gdb-io-run.c:308:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:327:16: warning: assignment discards qualifiers from pointer target type
+gdb-io-run.c:333:17: warning: assignment discards qualifiers from pointer target type
+gdb-io-run.c:334:17: warning: assignment discards qualifiers from pointer target type
+gdb-io-run.c:340:18: warning: assignment discards qualifiers from pointer target type
+gdb-io-run.c:344:18: warning: assignment discards qualifiers from pointer target type
+gdb-io-run.c:357:2: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-run.c:188:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:381:6: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:395:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘shutdown_channel’:
+gdb-io-run.c:423:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘on_gdb_exit’:
+gdb-io-run.c:450:3: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-run.c:188:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘on_send_to_gdb’:
+gdb-io-run.c:483:5: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:488:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘send_to_gdb’:
+gdb-io-run.c:523:5: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:530:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘target_killed’:
+gdb-io-run.c:591:3: warning: passing argument 1 of ‘gdbio_target_exited’ discards qualifiers from pointer target type
+gdb-io-run.c:538:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘on_read_from_gdb’:
+gdb-io-run.c:768:2: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: In function ‘gdbio_load’:
+gdb-io-run.c:803:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:808:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c:823:3: warning: passing argument 1 of ‘gerror’ discards qualifiers from pointer target type
+gdb-io-run.c:135:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-run.c: At top level:
+gdb-io-run.c:50:14: warning: ‘gdbio_id_in’ defined but not used
+gdb-io-read.c: In function ‘find_file_and_fullname’:
+gdb-io-read.c:68:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:69:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘parse_file_list_cb’:
+gdb-io-read.c:82:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:83:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘gdbio_get_results’:
+gdb-io-read.c:186:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘set_main_break’:
+gdb-io-read.c:259:2: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:263:3: warning: passing argument 2 of ‘gdblx_check_keyval’ discards qualifiers from pointer target type
+gdb-lex.h:65:10: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:263:3: warning: passing argument 3 of ‘gdblx_check_keyval’ discards qualifiers from pointer target type
+gdb-lex.h:65:10: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘gdbio_parse_file_list’:
+gdb-io-read.c:277:2: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘do_step_func’:
+gdb-io-read.c:302:2: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:303:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:304:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:321:4: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:327:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘finish_function’:
+gdb-io-read.c:351:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘return_function’:
+gdb-io-read.c:375:3: warning: passing argument 2 of ‘do_step_func’ discards qualifiers from pointer target type
+gdb-io-read.c:300:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘watchpoint_trigger’:
+gdb-io-read.c:389:2: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:390:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:391:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:392:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:393:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:394:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:398:5: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:405:6: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:412:7: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:420:8: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:425:8: warning: passing argument 1 of ‘gdbio_info_func’ discards qualifiers from pointer target type
+gdb-io-priv.h:79:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c: In function ‘handle_results_hash’:
+gdb-io-read.c:437:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:469:3: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:472:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:473:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:476:5: warning: passing argument 2 of ‘do_step_func’ discards qualifiers from pointer target type
+gdb-io-read.c:300:1: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:483:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:490:4: warning: passing argument 2 of ‘gdblx_check_keyval’ discards qualifiers from pointer target type
+gdb-lex.h:65:10: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:490:4: warning: passing argument 3 of ‘gdblx_check_keyval’ discards qualifiers from pointer target type
+gdb-lex.h:65:10: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:505:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:506:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:507:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:508:4: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:509:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:510:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:511:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:512:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:513:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:514:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:515:4: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:518:14: warning: assignment discards qualifiers from pointer target type
+gdb-io-read.c:522:10: warning: assignment discards qualifiers from pointer target type
+gdb-io-read.c:526:10: warning: assignment discards qualifiers from pointer target type
+gdb-io-read.c:574:4: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:583:4: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:592:4: warning: passing argument 2 of ‘gdblx_lookup_hash’ discards qualifiers from pointer target type
+gdb-lex.h:58:13: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:601:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:609:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:610:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:619:4: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-read.c:638:4: warning: passing argument 1 of ‘gdbio_target_exited’ discards qualifiers from pointer target type
+gdb-io-priv.h:84:6: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-break.c: In function ‘add_click’:
+gdb-ui-break.c:254:8: warning: passing argument 1 of ‘gdbui_location_dlg’ discards qualifiers from pointer target type
+gdb-ui.h:88:15: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-break.c: In function ‘break_dlg’:
+gdb-ui-break.c:504:3: warning: passing argument 1 of ‘gdbui_new_dialog’ discards qualifiers from pointer target type
+gdb-ui.h:77:12: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-envir.c: In function ‘get_env_dirs’:
+gdb-io-envir.c:106:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-envir.c: In function ‘get_env_path’:
+gdb-io-envir.c:149:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-envir.c: In function ‘get_env_cwd’:
+gdb-io-envir.c:170:2: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c: In function ‘stack_cb’:
+gdb-io-stack.c:80:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:81:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:82:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:83:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:84:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:85:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c: In function ‘merge_stack_args_cb’:
+gdb-io-stack.c:110:3: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:111:3: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:137:7: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c:138:7: warning: passing argument 2 of ‘gdblx_lookup_string’ discards qualifiers from pointer target type
+gdb-lex.h:57:8: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c: In function ‘parse_stack_args’:
+gdb-io-stack.c:160:2: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-io-stack.c: In function ‘parse_stack_list’:
+gdb-io-stack.c:181:2: warning: passing argument 2 of ‘gdblx_lookup_list’ discards qualifiers from pointer target type
+gdb-lex.h:59:9: note: expected ‘gchar *’ but argument is of type ‘const char *’
+gdb-ui-locn.c: In function ‘gdbui_location_dlg’:
+gdb-ui-locn.c:166:19: warning: initialization discards qualifiers from pointer target type
+gdb-ui-locn.c:169:11: warning: assignment discards qualifiers from pointer target type
+gdb-ui-locn.c:176:12: warning: assignment discards qualifiers from pointer target type
+ggd.c: In function ‘ggd_insert_comment’:
+ggd.c:524:3: warning: declaration of ‘_g_boolean_var_’ shadows a previous local
+ggd.c:524:3: warning: shadowed declaration is here
+ggd.c: In function ‘ggd_insert_all_comments’:
+ggd.c:579:3: warning: declaration of ‘_g_boolean_var_’ shadows a previous local
+ggd.c:579:3: warning: shadowed declaration is here
+ggd.c: In function ‘insert_multiple_comments’:
+ggd.c:343:10: warning: ‘pos’ may be used uninitialized in this function
+ggd-file-type-manager.c: In function ‘ggd_file_type_manager_get_conf_path’:
+ggd-file-type-manager.c:151:3: warning: comparison of unsigned expression >= 0 is always true
+ggd-file-type-manager.c: In function ‘ggd_file_type_manager_load_file_type’:
+ggd-file-type-manager.c:175:3: warning: comparison of unsigned expression >= 0 is always true
+ggd-options.c: In function ‘ggd_opt_group_set_proxy_full_internal’:
+ggd-options.c:330:7: warning: missing initializer
+ggd-options.c:330:7: warning: (near initialization for ‘val.data’)
+ggd-plugin.c: In function ‘ggd_plugin_get_doctype’:
+ggd-plugin.c:103:3: warning: comparison of unsigned expression >= 0 is always true
+ggd-widget-doctype-selector.c: In function ‘ggd_doctype_selector_set_doctype’:
+ggd-widget-doctype-selector.c:485:3: warning: comparison of unsigned expression >= 0 is always true
+ggd-widget-doctype-selector.c: In function ‘ggd_doctype_selector_get_doctype’:
+ggd-widget-doctype-selector.c:499:3: warning: comparison of unsigned expression >= 0 is always true
+geanynumberedbookmarks.c: In function ‘on_document_open’:
+geanynumberedbookmarks.c:589:7: warning: ‘iBits’ may be used uninitialized in this function
+gproject-main.c: In function ‘on_build_start’:
+gproject-main.c:89:2: warning: comparison between signed and unsigned integer expressions
+gproject-menu.c: In function ‘on_swap_header_source’:
+gproject-menu.c:127:3: warning: comparison between signed and unsigned integer expressions
+treebrowser.c: In function ‘path_is_in_dir’:
+treebrowser.c:250:14: warning: comparison between signed and unsigned integer expressions
+treebrowser.c: In function ‘treebrowser_expand_to_path’:
+treebrowser.c:802:15: warning: comparison between signed and unsigned integer expressions
+treebrowser.c: In function ‘on_menu_close_children’:
+treebrowser.c:1139:40: warning: comparison between signed and unsigned integer expressions
+gwh-settings.c: In function ‘gwh_settings_save_to_file’:
+gwh-settings.c:318:5: warning: missing initializer
+gwh-settings.c:318:5: warning: (near initialization for ‘value.data’)
+gwh-settings.c: In function ‘gwh_settings_load_from_file’:
+gwh-settings.c:442:7: warning: missing initializer
+gwh-settings.c:442:7: warning: (near initialization for ‘value.data’)
+gwh-settings.c: In function ‘gwh_settings_widget_new_full’:
+gwh-settings.c:725:3: warning: missing initializer
+gwh-settings.c:725:3: warning: (near initialization for ‘value.data’)
+gwh-settings.c: In function ‘gwh_settings_widget_sync_internal’:
+gwh-settings.c:804:3: warning: missing initializer
+gwh-settings.c:804:3: warning: (near initialization for ‘value.data’)
